@@ -1,0 +1,13 @@
+*.js
+*.js.map
+**/secrets.json
+**/firebase-debug.log
+**/firestore-debug.log
+**/package-lock.json
+**/node_modules
+**/bower_components
+**/*.bak
+.idea
+
+database-debug.log
+firestore-debug.log
